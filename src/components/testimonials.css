@@ -1,0 +1,11 @@
+li:nth-child(odd){
+    background-color: var(--secondary-bg);
+}
+li:nth-child(even){
+    background-color: var(--background);
+}
+li{
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px 0;
+}
